@@ -1,0 +1,105 @@
+.body{
+	padding-top: 80px;
+	background-color: #E0DAE0;
+
+}
+
+.fund{
+	font-size: 5rem;
+	color:#6AA162;
+	text-align: center;
+}
+
+.car{
+	float: center;
+}
+
+.cntc{
+	list-style: none;
+	margin-top: 5px;
+}
+
+.cntc1{
+	list-style: none;
+	margin-top: 10px;
+}
+
+.rds{
+	list-style: none;
+	list-style: inline;
+	margin-left: 10px;
+	float:left;
+}
+.clearfix {
+	clear: both;
+}
+
+.cntxt{
+	text-align:center;
+}
+
+.bor{
+	border-top: solid black;
+}
+
+footer .row {
+	padding-top: 10px;
+}
+
+.ours{
+	text-align: left;
+	padding:0px 30px 30px 30px;
+}
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.lema{
+	text-align: center;
+}
+
+.not{
+	color:green;
+	font-size: 1.2rem;
+}
+
+.new{
+	color:green;
+	font-size: 1.8rem;
+}
+.new1{
+	font-size:1.3rem;
+}
+.tn{
+	margin-top:10px;
+}
+
+.sqr{
+	color:white;
+	min-height: 50%;
+}
+
+.nit{
+	font-size: 0.8em;
+}
+
+.btn{
+	border:1px solid lightblue;
+	padding:2px;
+	border-radius: 10%;
+	color:white;
+	background-color:green;
+}
+
+.bord{
+	padding-bottom: 10px;
+}
+
+.thumbnail{
+	min-height:450px;
+}
+
+.box1{
+	margin-top:20px;
+}
